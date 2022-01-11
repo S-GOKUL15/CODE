@@ -1,5 +1,5 @@
 # CODE
-                                #**PYTHON PROGRAM TO REVERSE A GIVEN NUMBER**
+#PYTHON PROGRAM TO REVERSE A GIVEN NUMBER
 g=int(input("Enter the Number to be Reversed"))
 reverse=0
 while g!=0:
