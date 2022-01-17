@@ -1,0 +1,11 @@
+Name=input("Enter your name: ")
+Fathername=input("Enter your father name: ")
+Mobilenumber=input("Enter your Mobile number: ")
+Total_marks=input('Enter your 12th Marks:  ')
+Branch=input("Enter your Preferable branch:  ")
+print("\n\nName:   ",Name)
+print("Father name:   ",Fathername)
+print("Mobilenumber:   ",Mobilenumber)
+print("Total Marks:   ",Total_marks)
+print("Branch Preffered:    ",Branch)
+
